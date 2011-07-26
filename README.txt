@@ -19,6 +19,12 @@ Additional Libraries:
 GSL 	  (-lgsl)
 GSL CBLAS (-lgslcblas)
 
+//Installing GSL (mac/unix):
+-Get GSL 1.14 from mirrors.zerg.biz/gnu/gsl
+-$./configure (takes time!)
+-$make
+-$sudo make install 
+
 Keyboard Control - 
 Arrow keys - Add forces to the beads.
 P - Pause
